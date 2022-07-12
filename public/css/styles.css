@@ -54,3 +54,8 @@ p {
     font-size: 14px;
     font-family: Verdana;
 }
+
+.url {
+    font-style: italic;
+    font-weight: bold;
+}
